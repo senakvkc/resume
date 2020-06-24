@@ -1,0 +1,126 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Awesome Cover Letter
+% XeLaTeX Template
+% Version 1.1 (9/1/2016)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original authors:
+% Claud D. Park (posquit0.bj@gmail.com)
+% Lars Richter (mail@ayeks.de)
+% With modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template must be compiled with XeLaTeX, the below lines will ensure this
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt, a4paper]{awesome-cv} % A4 paper size by default, use 'letterpaper' for US letter
+
+\geometry{left=2cm, top=1.5cm, right=2cm, bottom=2cm, footskip=.5cm} % Configure page margins with geometry
+ 
+\fontdir[fonts/] % Specify the location of the included fonts
+
+% Color for highlights
+\colorlet{awesome}{awesome-red} % Default colors include: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange, awesome-nephritis, awesome-concrete, awesome-darknight
+%\definecolor{awesome}{HTML}{CA63A8} % Uncomment if you would like to specify your own color
+
+% Colors for text - uncomment and modify
+%\definecolor{darktext}{HTML}{414141}
+%\definecolor{text}{HTML}{414141}
+%\definecolor{graytext}{HTML}{414141}
+%\definecolor{lighttext}{HTML}{414141}
+
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad} % If you would like to change the social information separator from a pipe (|) to something else
+
+%----------------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%----------------------------------------------------------------------------------------
+
+\name{Sena}{Kavukcu}
+\address{Sisli, İstanbul, Turkey}
+\mobile{(+90) 5392314774}
+
+\email{senakavukcu@hotmail.com}
+\homepage{www.senakavukcu.com}
+\github{senakvkc}
+\linkedin{Sena Kavukcu}
+%\skype{skypeid}
+%\stackoverflow{SOid}{SOname}
+%\twitter{@twit}
+
+\position{Computer Engineering Student} % Your expertise/fields
+\quote{``Never ever stop learning."} % A quote or statement
+
+%----------------------------------------------------------------------------------------
+%	RECIPIENT/POSITION/LETTER INFORMATION
+%	All of the below lines must be filled out
+%----------------------------------------------------------------------------------------
+
+\recipient{Company Recruitment Team}{Initech Inc.\\4120 Freidrich Ln.\\Austin, TX 78744} % The company being applied to
+
+\letterdate{\today} % The date on the letter, default is the date of compilation
+
+\lettertitle{Job Application for Middle Manager} % The title of the letter
+
+\letteropening{Dear Hiring Manager,} % How the letter is opened
+
+\letterclosing{Sincerely,} % How the letter is closed
+
+\letterenclosure[Attached]{Curriculum Vitae} % Any enclosures with the letter
+
+\makecvfooter{\today}{Sena Kavukcu~~~·~~~Cover Letter}{} % Specify the letter footer with 3 arguments: (<left>, <center>, <right>), leave any of these blank if they are not needed
+  
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\makecvheader % Print the header
+
+\makelettertitle % Print the title
+
+%----------------------------------------------------------------------------------------
+%	LETTER CONTENT
+%----------------------------------------------------------------------------------------
+
+\begin{cvletter}
+
+%------------------------------------------------
+
+\lettersection{About Me}
+
+I'm Sena Kavukcu. I was born in Istanbul in 1997. I graduated from Şişli Terakki High School and started my university journey as an interior design student. A year later I decided that my true passion was computers and I need to be with them, work with them all the time. So I started studying computer engineering. Now I'm a second year student in Istanbul Bilgi University. I've heard about this title from our unievrsity's career center.
+
+%------------------------------------------------
+
+\lettersection{Why FineDine?}
+
+Suspendisse commodo, massa eu congue tincidunt, elit mauris pellentesque orci, cursus tempor odio nisl euismod augue. Aliquam adipiscing nibh ut odio sodales et pulvinar tortor laoreet. Mauris a accumsan ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse vulputate sem vehicula ipsum varius nec tempus dui dapibus. Phasellus et est urna, ut auctor erat. Sed tincidunt odio id odio aliquam mattis. Donec sapien nulla, feugiat eget adipiscing sit amet, lacinia ut dolor. Phasellus tincidunt, leo a fringilla consectetur, felis diam aliquam urna, vitae aliquet lectus orci nec velit. Vivamus dapibus varius blandit.
+
+%------------------------------------------------
+
+\lettersection{Why Me?}
+
+I'm a passionate person. I like spending my time with computers and learning new things. I always try to learn new skills to improve my abilities. I'm currently having classes in Android development. I know that FineDine makes apps for both iOS and Android devices, and that would be a great place to start my career as an Android developer.
+
+%------------------------------------------------
+
+\end{cvletter}
+
+%----------------------------------------------------------------------------------------
+
+\makeletterclosing % Print the signature and enclosures
+
+\end{document}

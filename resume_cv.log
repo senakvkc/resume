@@ -1,13 +1,13 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7440 64-bit) (preloaded format=xelatex 2020.6.3)  24 JUN 2020 23:35
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7440 64-bit) (preloaded format=xelatex 2020.6.24)  25 JUN 2020 00:44
 entering extended mode
 **./resume_cv.tex
 (resume_cv.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-05-15> (awesome-cv.cls
+L3 programming layer <2020-06-18> (awesome-cv.cls
 Document Class: awesome-cv 2017/02/05 v1.6.1 Awesome Curriculum Vitae Class
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.clo"
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.clo"
 File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count163
@@ -22,7 +22,7 @@ File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen135
 \ar@mcellbox=\box45
@@ -32,7 +32,7 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \backup@length=\skip50
 \ar@cellbox=\box46
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumitem.s
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumitem.s
 ty"
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \enitkv@toks@=\toks16
@@ -43,10 +43,10 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count171
 \enitdp@description=\count172
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ragged2e\ragged2e.s
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ragged2e\ragged2e.s
 ty"
 Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
- ("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everysel.sty"
+ ("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everysel.sty"
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip52
@@ -64,18 +64,18 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip64
 \JustifyingParindent=\skip65
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.s
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.s
 ty"
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
 "
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks18
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty"
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty"
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 \Gm@cnth=\count173
@@ -91,9 +91,9 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layoutvoffset=\dimen145
 \Gm@dimlist=\toks19
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xetexconfig\geome
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xetexconfig\geome
 try.cfg"))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.s
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.s
 ty"
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
@@ -107,16 +107,16 @@ s
 \f@nch@O@olf=\skip73
 \f@nch@O@orf=\skip74
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
 cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\xetex.
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\xetex.
 def"
 File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 )
@@ -129,14 +129,14 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifxetex.sty
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifxetex.sty
 "
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xifthen\xifthen.sty
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xifthen\xifthen.sty
 "
 Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
- ("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+ ("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count176
 \calc@Bcount=\count177
@@ -149,32 +149,32 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count178
 \calc@Cskip=\skip77
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifmtarg\ifmtarg.sty
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifmtarg\ifmtarg.sty
 "
 Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 ))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.s
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.s
 ty"
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count179
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspace.s
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspace.s
 ty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec.s
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec.s
 ty"
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\x
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\x
 parse.sty"
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty"
-Package: expl3 2020-05-15 L3 programming layer (loader) 
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2020-06-18 L3 programming layer (loader) 
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend
 -xdvipdfmx.def"
-File: l3backend-xdvipdfmx.def 2020-05-05 L3 backend support: xdvipdfmx
+File: l3backend-xdvipdfmx.def 2020-06-18 L3 backend support: xdvipdfmx
 \g__graphics_track_int=\count180
 \l__pdf_internal_box=\box48
 \g__pdf_backend_object_int=\count181
@@ -182,7 +182,7 @@ File: l3backend-xdvipdfmx.def 2020-05-05 L3 backend support: xdvipdfmx
 ))
 Package: xparse 2020-05-15 L3 Experimental document command parser
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\x
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\x
 parse-generic.tex"
 \l__xparse_current_arg_int=\count183
 \g__xparse_grabber_int=\count184
@@ -191,7 +191,7 @@ parse-generic.tex"
 ))
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec-x
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec-x
 etex.sty"
 Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
@@ -210,50 +210,50 @@ X
 \l__fontspec_tmpb_dim=\dimen149
 \l__fontspec_tmpc_dim=\dimen150
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec.c
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec.c
 fg")))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/unicode-math\unicod
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/unicode-math\unicod
 e-math.sty"
 Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/unicode-math\unicod
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/unicode-math\unicod
 e-math-xetex.sty"
 Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLa
 TeX
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3keys2e
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3keys2e
 \l3keys2e.sty"
 Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fix-cm.sty"
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fix-cm.sty"
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.def"
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty
 "
 Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip78
 
 For additional information on amsmath, use the `?' option.
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty
 "
 Package: amstext 2000/06/29 v2.01 AMS text
- ("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+ ("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
 "
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks20
 \ex@=\dimen151
 ))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen152
-) ("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+) ("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
 y"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
@@ -300,25 +300,25 @@ LaTeX Info: Redefining \] on input line 2860.
 \l__um_primecount_int=\count278
 \g__um_primekern_muskip=\muskip17
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/unicode-math\unicod
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/unicode-math\unicod
 e-math-table.tex"))) (fontawesome.sty
 Package: fontawesome 2015/11/04 v4.4.0 font awesome icons
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sourcesanspro\sourc
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sourcesanspro\sourc
 esanspro.sty"
 Package: sourcesanspro 2018/05/19 v2.7 Adobe's Source Sans Pro typeface
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.st
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.st
 y"
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty
 "
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.t
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.t
 ex"
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.
 tex"
 \XKV@toks=\toks25
 \XKV@tempa@toks=\toks26
@@ -333,51 +333,51 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/SourceSansPro(1)/bx/n on input lin
 e 123.
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tcolorbox\tcolorbox
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tcolorbox\tcolorbox
 .sty"
 Package: tcolorbox 2020/04/28 version 4.30 text color boxes
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf.
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf.
 sty"
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfrc
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfrc
 s.sty"
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
 util-common.tex"
 \pgfutil@everybye=\toks27
 \pgfutil@tempdima=\dimen160
 \pgfutil@tempdimb=\dimen161
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
 util-common-lists.tex"))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
 util-latex.def"
 \pgfutil@abb=\box51
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
 rcs.code.tex"
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revision.
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revision.
 tex")
 Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
 ))
 Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgfc
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgfc
 ore.sty"
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
 ty"
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
 ty"
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
 cs.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
@@ -386,18 +386,18 @@ Package graphics Info: Driver file: xetex.def on input line 105.
 \Gin@req@height=\dimen162
 \Gin@req@width=\dimen163
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer\pgf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer\pgf
 sys.sty"
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
 gfsys.code.tex"
 Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
 keys.code.tex"
 \pgfkeys@pathtoks=\toks28
 \pgfkeys@temptoks=\toks29
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
 keysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks30
 ))
@@ -422,47 +422,47 @@ keysfiltered.code.tex"
 \t@pgf@tokc=\toks33
 \pgf@sys@id@count=\count284
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
 gf.cfg"
 File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
 Driver file for pgf: pgfsys-xetex.def
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
 gfsys-xetex.def"
 File: pgfsys-xetex.def 2020/01/08 v3.1.5b (3.1.5b)
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
 gfsys-dvipdfmx.def"
 File: pgfsys-dvipdfmx.def 2020/01/08 v3.1.5b (3.1.5b)
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
 gfsys-common-pdf.def"
 File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 )
 \pgfsys@objnum=\count285
 )))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
 gfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfsyssoftpath@smallbuffer@items=\count286
 \pgfsyssoftpath@bigbuffer@items=\count287
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
 gfsysprotocol.code.tex"
 File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
 fcore.code.tex"
 Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.
 code.tex"
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathc
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathc
 alc.code.tex"
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathu
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathu
 til.code.tex")
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathp
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathp
 arser.code.tex"
 \pgfmath@dimen=\dimen174
 \pgfmath@count=\count288
@@ -471,31 +471,31 @@ arser.code.tex"
 \pgfmath@stack@operand=\toks35
 \pgfmath@stack@operation=\toks36
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
 unctions.code.tex"
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
 unctions.basic.code.tex")
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
 unctions.trigonometric.code.tex")
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
 unctions.random.code.tex")
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
 unctions.comparison.code.tex")
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
 unctions.base.code.tex")
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
 unctions.round.code.tex")
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
 unctions.misc.code.tex")
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
 unctions.integerarithmetics.code.tex")))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
 loat.code.tex"
 \c@pgfmathroundto@lastzeros=\count289
 ))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfint.c
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfint.c
 ode.tex")
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
 fcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@picminx=\dimen175
@@ -513,19 +513,19 @@ File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@zx=\dimen187
 \pgf@zy=\dimen188
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
 fcorepathconstruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@path@lastx=\dimen189
 \pgf@path@lasty=\dimen190
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
 fcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@shorten@end@additional=\dimen191
 \pgf@shorten@start@additional=\dimen192
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
 fcorescopes.code.tex"
 File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfpic=\box53
@@ -533,97 +533,97 @@ File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@layerbox@main=\box55
 \pgf@picture@serial@count=\count290
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
 fcoregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgflinewidth=\dimen193
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
 fcoretransformations.code.tex"
 File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@pt@x=\dimen194
 \pgf@pt@y=\dimen195
 \pgf@pt@temp=\dimen196
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
 fcorequick.code.tex"
 File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
 fcoreobjects.code.tex"
 File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
 fcorepathprocessing.code.tex"
 File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
 fcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfarrowsep=\dimen197
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
 fcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@max=\dimen198
 \pgf@sys@shading@range@num=\count291
 \pgf@shadingcount=\count292
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
 fcoreimage.code.tex"
 File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
 fcoreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfexternal@startupbox=\box56
 ))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
 fcorelayers.code.tex"
 File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
 fcoretransparency.code.tex"
 File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
 fcorepatterns.code.tex"
 File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
 fcorerdf.code.tex"
 File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmo
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmo
 duleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfnodeparttextbox=\box57
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmo
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmo
 duleplot.code.tex"
 File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\p
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\p
 gfcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@nodesepstart=\dimen199
 \pgf@nodesepend=\dimen256
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\p
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\p
 gfcomp-version-1-18.sty"
 Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
 ))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\verbatim.sty"
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\verbatim.sty"
 Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks37
 \verbatim@line=\toks38
 \verbatim@in@stream=\read3
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/environ\environ.sty
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/environ\environ.sty
 "
 Package: environ 2014/05/04 v0.3 A new way to define environments
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/trimspaces\trimspac
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/trimspaces\trimspac
 es.sty"
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
@@ -641,38 +641,38 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@out=\write4
 \tcb@record@out=\write5
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tcolorbox\tcbskins.
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tcolorbox\tcbskins.
 code.tex"
 Library (tcolorbox): 'tcbskins.code.tex' version '4.30'
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlayer\t
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlayer\t
 ikz.sty"
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgffo
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgffo
 r.sty"
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfke
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfke
 ys.sty"
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
 keys.code.tex"))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.st
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.st
 y"
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.
 code.tex"))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
 for.code.tex"
 Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.
 code.tex")
 \pgffor@iter=\dimen257
 \pgffor@skip=\dimen258
 \pgffor@stack=\toks39
 \pgffor@toks=\toks40
 ))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
 /tikz\tikz.code.tex"
 Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pgf
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pgf
 libraryplothandlers.code.tex"
 File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@plot@mark@count=\count296
@@ -695,7 +695,7 @@ File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \tikznumberofcurrentchild=\count299
 \tikz@fig@count=\count300
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmo
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmo
 dulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfmatrixcurrentrow=\count301
@@ -704,42 +704,42 @@ File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 \tikz@expandcount=\count304
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
 /tikz/libraries\tikzlibrarytopaths.code.tex"
 File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
 \tcb@waterbox=\box70
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tcolorbox\tcbskinsj
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tcolorbox\tcbskinsj
 igsaw.code.tex"
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '4.30'
 )))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/parskip\parskip.sty
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/parskip\parskip.sty
 "
-Package: parskip 2020-05-19 v2.0e non-zero parskip adjustments
+Package: parskip 2020-06-15 v2.0f non-zero parskip adjustments
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoptions
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoptions
 .sty"
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.s
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.s
 ty"
 Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetke
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetke
 ys.sty"
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )))
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.s
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.s
 ty"
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcm
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcm
 ds.sty"
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2020-06-04 v0.32 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infware
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infware
 rr.sty"
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
@@ -747,23 +747,23 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvde
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvde
 finekeys.sty"
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfescape\pdfesca
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfescape\pdfesca
 pe.sty"
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\hycolor.sty
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\hycolor.sty
 "
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltxmacro\letltxm
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltxmacro\letltxm
 acro.sty"
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhook.sty
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhook.sty
 "
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
@@ -771,22 +771,22 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 \Hy@linkcounter=\count305
 \Hy@pagecounter=\count306
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def
 "
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intcalc\intcalc.s
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intcalc\intcalc.s
 ty"
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etexcmds
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etexcmds
 .sty"
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count307
 Package hyperref Info: Option `unicode' set `true' on input line 4338.
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc.def"
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc.def"
 File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Hyper figures OFF on input line 4464.
@@ -797,18 +797,18 @@ Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
 \c@Hy@tempcnt=\count308
- ("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+ ("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5076.
 \XeTeXLinkMargin=\dimen269
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bitset\bitset.sty
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bitset\bitset.sty
 "
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigintcalc\bigint
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigintcalc\bigint
 calc.sty"
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
@@ -826,7 +826,7 @@ Package hyperref Info: PDF/A mode OFF on input line 6377.
 LaTeX Info: Redefining \ref on input line 6417.
 LaTeX Info: Redefining \pageref on input line 6421.
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/atbegshi\atbegshi
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/atbegshi\atbegshi
 .sty"
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
@@ -836,11 +836,11 @@ Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hxetex.def
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hxetex.def
 "
 File: hxetex.def 2020-05-15 v7.00e Hyperref driver for XeTeX
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/stringenc\stringe
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/stringenc\stringe
 nc.sty"
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
@@ -851,15 +851,15 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 \Fld@listcount=\count315
 \c@bookmark@seq@number=\count316
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rerunfilecheck\reru
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rerunfilecheck\reru
 nfilecheck.sty"
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/atveryend\atveryend
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/atveryend\atveryend
 .sty"
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/uniquecounter\uni
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/uniquecounter\uni
 quecounter.sty"
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
@@ -974,15 +974,15 @@ ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box72
 Package hyperref Info: Link coloring OFF on input line 73.
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.st
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.st
 y"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcount.s
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcount.s
 ty"
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestring\ge
+("C:\Users\Sena\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestring\ge
 ttitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
@@ -1075,10 +1075,10 @@ Package rerunfilecheck Info: File `resume_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31740 strings out of 414044
- 618657 string characters out of 2893149
- 1067552 words of memory out of 3000000
- 48913 multiletter control sequences out of 15000+200000
+ 31745 strings out of 414039
+ 618749 string characters out of 2892967
+ 1067617 words of memory out of 3000000
+ 48923 multiletter control sequences out of 15000+200000
  535006 words of font info for 97 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  67i,12n,112p,802b,422s stack positions out of 5000i,500n,10000p,200000b,50000s
